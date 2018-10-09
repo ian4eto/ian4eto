@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-[intro](https://github.com/ian4eto/ian4eto/edit/master/intro)
+[intro](https://github.com/ian4eto/ian4eto/edit/master/intro.md)
 
 You can use the [editor on GitHub](https://github.com/ian4eto/ian4eto/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
